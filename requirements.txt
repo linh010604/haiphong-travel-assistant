@@ -1,0 +1,4 @@
+thefuzz
+PyAudio
+SpeechRecognition
+pyttsx3
